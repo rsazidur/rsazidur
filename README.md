@@ -79,10 +79,10 @@ NERO is a game character in DMC. In reality sazid do coding and programming. Inc
 <!--START_SECTION:waka-->
 
 ```text
-Python     6 hrs 52 mins   ███████████████░░░░░░░░░░   60.48 %
-Markdown   2 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   24.61 %
-YAML       1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Other      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python     8 hrs 57 mins   ████████████████▓░░░░░░░░   66.30 %
+Markdown   2 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
+YAML       1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Other      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
