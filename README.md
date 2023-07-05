@@ -14,8 +14,8 @@ I'm Sazid from Bangladesh, and I do coding. I really enjoy learning new programm
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 📫 How to reach me: rsazidur936@gmail.com.
-- 😄 Pronouns: NERO, Alison, Nos.
-- ⚡ Fun fact: I play games and I love Rias Gremory.
+- 😄 Pronouns: ....
+- ⚡ Fun fact: .
 
 #### Top Technologies
 
